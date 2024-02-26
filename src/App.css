@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid chartreuse;
+  padding: 20px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+button {
+  background-color: blueviolet;
+  color: white;
+  padding: 10px;
+  border: none;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+button:hover {
+  background-color: red;
+}
